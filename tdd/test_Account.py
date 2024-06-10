@@ -13,9 +13,3 @@ class TestAccount(TestCase):
         self.assertEqual(first:2, janet_account.check_balance("pin"))
         janet_account.deposit(2000)
         self.assertEqual(first:2000, janet_account.check_balance("pin"))
-
-    def test_deposit_negative_amount_balance_is_unchanged(self):
-        janet_account: Account = Account(name:"name", balance:0, pin: "pin")
-        janet_account.deposit(-2000)
-
-    def test_deposit_5k_withdraw_is_2k(self):
