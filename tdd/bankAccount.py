@@ -18,6 +18,7 @@ class BankAccount:
         self.account_type = "Current"
         self.account_balance = 0.00
 
+
     def update_account(self):
         self.bank.append(self.bank_name)
         self.bank.append(self.account_name)
@@ -40,5 +41,9 @@ class BankAccount:
             print("Insufficient funds")
         return self.account_balance
 
-
-
+    bank = {
+        "account_number": self.account_number,
+        "account_name": self.account_name,
+        "account_type": self.account_type,
+        "account_balance": self.account_balance
+    }
