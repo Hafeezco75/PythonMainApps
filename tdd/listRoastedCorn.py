@@ -248,3 +248,33 @@ def sort_dictionary_by_value():
 
 
 print(sort_dictionary_by_value())
+
+
+def sum_collection():
+    setts = set()
+    sumups = 0
+    for number in range(1, 21):
+        new_list = list(setts)
+        new_list.append(number)
+        setts = set(new_list)
+    for element in setts:
+        sumups += int(element)
+    return sumups
+
+
+print(sum_collection())
+
+
+def remove_item():
+    global number
+    sett = set()
+    for number in range(1, 21):
+        sett.add(number)
+    if number in sett:
+        sett.remove(number)
+        return sett
+    elif number not in sett:
+        return None
+
+
+print(remove_item())

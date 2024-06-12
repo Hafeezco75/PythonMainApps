@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4c5c555-7200-4e11-be0e-11dddea571ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tdd/dictionarys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_listRoastedCorn.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tdd/bankAccount.py" beforeDir="false" afterPath="$PROJECT_DIR$/tdd/bankAccount.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tdd/listRoastedCorn.py" beforeDir="false" afterPath="$PROJECT_DIR$/tdd/listRoastedCorn.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +53,7 @@
     &quot;Python tests.Python tests for test_bankAccount.MyTestCase.test_that_account_can_be_created.executor&quot;: &quot;Debug&quot;,
     &quot;Python tests.Python tests in test_bankAccount.py.executor&quot;: &quot;Coverage&quot;,
     &quot;Python tests.Python tests in test_lenfunction.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_listRoastedCorn.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_listRoastedCorn.py.executor&quot;: &quot;Coverage&quot;,
     &quot;Python tests.Python tests in test_queue.py.executor&quot;: &quot;Coverage&quot;,
     &quot;Python tests.Python tests in test_stack.py.executor&quot;: &quot;Coverage&quot;,
     &quot;Python.CheckoutApp.executor&quot;: &quot;Run&quot;,
@@ -134,7 +131,8 @@
       <workItem from="1717985130266" duration="2658000" />
       <workItem from="1718002160601" duration="22836000" />
       <workItem from="1718060970205" duration="20001000" />
-      <workItem from="1718090360633" duration="214000" />
+      <workItem from="1718090360633" duration="2741000" />
+      <workItem from="1718130716889" duration="3885000" />
     </task>
     <servers />
   </component>
@@ -143,8 +141,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cohort_twenty$test_lenfunction.coverage" NAME="test_lenfunction Coverage Results" MODIFIED="1717582485347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/cohort_twenty$.coverage" NAME=" Coverage Results" MODIFIED="1718090404807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/cohort_twenty$listRoastedCorn.coverage" NAME="listRoastedCorn Coverage Results" MODIFIED="1718090476912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tdd" />
+    <SUITE FILE_PATH="coverage/cohort_twenty$.coverage" NAME=" Coverage Results" MODIFIED="1718091022828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/cohort_twenty$listRoastedCorn.coverage" NAME="listRoastedCorn Coverage Results" MODIFIED="1718152654525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tdd" />
     <SUITE FILE_PATH="coverage/cohort_twenty$CheckoutApp.coverage" NAME="CheckoutApp Coverage Results" MODIFIED="1717646627515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Sk-Assignments" />
     <SUITE FILE_PATH="coverage/cohort_twenty$arrayreverse.coverage" NAME="arrayreverse Coverage Results" MODIFIED="1717492297940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tdd" />
     <SUITE FILE_PATH="coverage/cohort_twenty$practice.coverage" NAME="practice Coverage Results" MODIFIED="1717596345481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tdd" />
