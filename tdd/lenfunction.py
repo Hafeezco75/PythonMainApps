@@ -5,6 +5,7 @@ def checklength(name):
         length = str(length)
     return count
 
+
 print(checklength("Ayinlade"))
 
 
@@ -14,5 +15,3 @@ def length(items):
     count = 0
     for length in items:
         count += 1
-
-
