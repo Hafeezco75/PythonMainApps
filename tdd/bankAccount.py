@@ -42,8 +42,4 @@ class BankAccount:
         return self.account_balance
 
     bank = {
-        "account_number": self.account_number,
-        "account_name": self.account_name,
-        "account_type": self.account_type,
-        "account_balance": self.account_balance
     }
